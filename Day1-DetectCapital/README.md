@@ -21,8 +21,8 @@ Output: False<br>
 
 __*Note: The input will be a non-empty word consisting of uppercase and lowercase latin letters.*__
 
-<h3>__Runtime Distribution__</h3><br>
+__Runtime Distribution__<br>
 ![SNIP](RuntimeDay1.JPG)
 
-<h3>__Memory Distribution__</h3><br>
+__Memory Distribution__<br>
 ![SNIP](MemoryDay1.JPG)
