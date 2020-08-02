@@ -22,7 +22,7 @@ Output: False<br>
 __*Note: The input will be a non-empty word consisting of uppercase and lowercase latin letters.*__
 
 __Runtime Distribution__<br>
-![GitHub Logo](RuntimeDay1.jpg)
+![SNIP](RuntimeDay1.JPG)
 
 __Memory Distribution__<br>
-![GitHub Logo](MemoryDay1.jpg)
+![SNIP](MemoryDay1.JPG)
