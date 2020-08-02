@@ -44,7 +44,7 @@ public:
 
 int main()
 {
-    string str = "gagan preet";
+    string str = "LeetCode";
     Solution obj;
     cout<<obj.detectCapitalUse(str);
 }
