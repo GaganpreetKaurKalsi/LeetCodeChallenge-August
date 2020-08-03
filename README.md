@@ -1,5 +1,5 @@
 <h2>August LeetCoding Challenge</h2>
-<b>DAY1</b> - Detect Capital<br><br>
+<b>DAY1</b> - Detect Capital<br>
 <b>DAY2</b> - Design HashSet<br><br>
 
 **Contents of each folder :** 
