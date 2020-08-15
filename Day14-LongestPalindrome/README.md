@@ -18,3 +18,10 @@ __Runtime Distribution__<br>
 
 __Memory Distribution__<br>
 ![SNIP](MemoryDay14.JPG)
+
+
+__Runtime Distribution__<br>
+![SNIP](RuntimeDay14Python.JPG)
+
+__Memory Distribution__<br>
+![SNIP](MemoryDay14Python.JPG)
