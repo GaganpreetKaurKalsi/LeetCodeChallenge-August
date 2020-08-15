@@ -1,7 +1,4 @@
 <h2>August LeetCoding Challenge</h2>
-<b>DAY1</b> - Detect Capital<br>
-<b>DAY2</b> - Design HashSet<br>
-<b>DAY3</b> - Valid Palindrome<br><br>
 
 **Contents of each folder :** 
 - A code file (.cpp)
