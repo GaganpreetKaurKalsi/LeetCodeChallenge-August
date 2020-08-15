@@ -13,7 +13,7 @@ In Pascal's triangle, each number is the sum of the two numbers directly above i
 *Follow up:Could you optimize your algorithm to use only O(k) extra space?* <br>
 
 __Runtime Distribution__<br>
-![SNIP](RuntimeDay10.JPG)
+![SNIP](RuntimeDay12.JPG)
 
 __Memory Distribution__<br>
-![SNIP](MemoryDay10.JPG)
+![SNIP](MemoryDay12.JPG)
