@@ -1,6 +1,6 @@
 <h3>Problem Statement</h3>
 
-<h2>Design Add and Search Words Data Structure</h2>
+<h2>Add and Search Word - Data structure design</h2>
 You should design a data structure that supports adding new words and finding if a string matches any previously added string.<br>
 
 Implement the WordDictionary class:
